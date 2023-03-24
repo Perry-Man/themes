@@ -34,11 +34,11 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
 @import url("https://xcruxiex.github.io/themes/core/custom-font.css");
 @import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css"); /* Radial Status */
 :root {
-  --backgroundColor01: #1e2731;
-  --backgroundColor02: #12171d;
-  --mainColor: #2275c9;
-  --gradientColor01: #00F260;
-  --gradientColor02: #0575E6;
+  --backgroundColor01: #251b29;
+  --backgroundColor02: #1a121a;
+  --mainColor: #7cbdc9;
+  --gradientColor01: #f27500;
+  --gradientColor02: #ff0077;
 
   /* Better Hljs */
   --backgroundCode: #1e2731;
@@ -48,15 +48,15 @@ NNNNNNNN         NNNNNNN   ooooooooooo       cccccccccccccccc          ttttttttt
   --rs-small-spacing: 2px;
   --rs-large-spacing: 3px;
   --rs-width: 2px;
-  --rs-avatar-shape: 50%;
-  --rs-online-color: #43b581;
-  --rs-idle-color: #faa61a;
-  --rs-dnd-color: #f04747;
-  --rs-offline-color: #636b75;
-  --rs-streaming-color: #643da7;
+  --rs-avatar-shape: 35%;
+  --rs-online-color: #00ff4c;
+  --rs-idle-color: #ff7300;
+  --rs-dnd-color: #ff0000;
+  --rs-offline-color: #636b755d;
+  --rs-streaming-color: #5d00ff;
   --rs-invisible-color: #747f8d;
   --rs-phone-visible: block;
-  --rs-phone-color: var(--rs-online-color);
+  --rs-phone-color: #006eff;
 
   --customFont: 'gg sans', sans-serif;
 }
